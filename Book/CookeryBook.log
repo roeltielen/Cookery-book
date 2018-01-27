@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  27 JAN 2018 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  27 JAN 2018 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -711,7 +711,7 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 \c@blind@pangramcount=\count156
 \c@blind@pangrammax=\count157
 )
-No file CookeryBook.aux.
+(./CookeryBook.aux)
 \openout1 = `CookeryBook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -728,6 +728,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count158
@@ -779,11 +780,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
+
+(./CookeryBook.out) (./CookeryBook.out)
 \@outlinefile=\write5
 \openout5 = `CookeryBook.out'.
 
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -805,7 +807,7 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 33.
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./CookeryBook.toc)
 \tf@toc=\write6
 \openout6 = `CookeryBook.toc'.
 
@@ -818,12 +820,19 @@ l.35 \chapter
 
 ]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 40.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+
+<Images/noodles_ingredients.jpg, id=24, 1557.82pt x 2601.72pt>
+File: Images/noodles_ingredients.jpg Graphic file (type jpg)
+
+<use Images/noodles_ingredients.jpg>
+Package pdftex.def Info: Images/noodles_ingredients.jpg used on input line 50.
+(pdftex.def)             Requested size: 140.19775pt x 234.1447pt.
 \@syc=\write7
 \openout7 = `CookeryBook.syc'.
 
@@ -832,39 +841,33 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
  [2
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
- (./CookeryBook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+ <./Images/noodles_ingredients.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
 
-
-Package rerunfilecheck Warning: File `CookeryBook.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CookeryBook.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  6F0473AD727544DB4CC11A9D55CC37D7;60.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
+(./CookeryBook.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package rerunfilecheck Info: File `CookeryBook.out' has not changed.
+(rerunfilecheck)             Checksum: 6F0473AD727544DB4CC11A9D55CC37D7;60.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 18065 strings out of 494953
- 328153 string characters out of 6180977
- 400880 words of memory out of 5000000
- 20968 multiletter control sequences out of 15000+600000
- 14666 words of font info for 60 fonts, out of 8000000 for 9000
+ 18083 strings out of 494953
+ 328482 string characters out of 6180977
+ 401063 words of memory out of 5000000
+ 20975 multiletter control sequences out of 15000+600000
+ 14973 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,6n,54p,412b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,9n,54p,412b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CookeryBook.pdf (3 pages, 45578 bytes).
+Output written on CookeryBook.pdf (3 pages, 594117 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

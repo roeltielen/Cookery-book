@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  28 JAN 2018 20:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  2 FEB 2018 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,7 +827,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-<Images/noodles_ingredients.jpg, id=24, 1557.82pt x 2601.72pt>
+<Images/noodles_ingredients.jpg, id=29, 1557.82pt x 2601.72pt>
 File: Images/noodles_ingredients.jpg Graphic file (type jpg)
 
 <use Images/noodles_ingredients.jpg>
@@ -848,36 +848,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--64
 
  []
 
-<Images/noodles.jpg, id=25, 2601.72pt x 1557.82pt>
+<Images/noodles.jpg, id=30, 2601.72pt x 1557.82pt>
 File: Images/noodles.jpg Graphic file (type jpg)
  <use Images/noodles.jpg>
 Package pdftex.def Info: Images/noodles.jpg used on input line 67.
 (pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
+
+[2
+
+ <./Images/noodles_ingredients.jpg> <./Images/noodles.jpg>]
+Chapter 2.
+<Images/ravioli.jpg, id=38, 2601.72pt x 1557.82pt>
+File: Images/ravioli.jpg Graphic file (type jpg)
+ <use Images/ravioli.jpg>
+Package pdftex.def Info: Images/ravioli.jpg used on input line 87.
+(pdftex.def)             Requested size: 182.139pt x 109.05853pt.
+
+Overfull \hbox (46.24727pt too wide) in paragraph at lines 87--88
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 97--100
+\OT1/cmr/m/n/12 Add the bol-ge-nese `scho-tel' and let it bake for
+ []
+
+<Images/mushroom.jpg, id=39, 2601.72pt x 1557.82pt>
+File: Images/mushroom.jpg Graphic file (type jpg)
+ <use Images/mushroom.jpg>
+Package pdftex.def Info: Images/mushroom.jpg used on input line 103.
+(pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
+
+Overfull \hbox (10.57622pt too wide) in paragraph at lines 103--104
+[][] 
+ []
+
 \@syc=\write7
 \openout7 = `CookeryBook.syc'.
 
 \@suc=\write8
 \openout8 = `CookeryBook.suc'.
 
+[3
 
-[2
-
- <./Images/noodles_ingredients.jpg> <./Images/noodles.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
-
-(./CookeryBook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+ <./Images/ravioli.jpg> <./Images/mushroom.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+ (./CookeryBook.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `CookeryBook.out' has not changed.
-(rerunfilecheck)             Checksum: 6F0473AD727544DB4CC11A9D55CC37D7;60.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+(rerunfilecheck)             Checksum: 811DB5E200BEF0D0C8A4C3674EF9DD04;129.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 18088 strings out of 494953
- 328584 string characters out of 6180977
- 402063 words of memory out of 5000000
- 20979 multiletter control sequences out of 15000+600000
+ 18103 strings out of 494953
+ 328839 string characters out of 6180977
+ 402064 words of memory out of 5000000
+ 20988 multiletter control sequences out of 15000+600000
  14973 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,9n,54p,412b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -885,10 +918,10 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CookeryBook.pdf (3 pages, 1135530 bytes).
+Output written on CookeryBook.pdf (4 pages, 2082870 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 

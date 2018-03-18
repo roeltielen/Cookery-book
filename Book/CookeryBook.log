@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  18 FEB 2018 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.25)  18 MAR 2018 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,7 +827,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-<Images/noodles_ingredients.jpg, id=34, 1557.82pt x 2601.72pt>
+<Images/noodles_ingredients.jpg, id=44, 1557.82pt x 2601.72pt>
 File: Images/noodles_ingredients.jpg Graphic file (type jpg)
 
 <use Images/noodles_ingredients.jpg>
@@ -848,7 +848,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--64
 
  []
 
-<Images/noodles.jpg, id=35, 2601.72pt x 1557.82pt>
+<Images/noodles.jpg, id=45, 2601.72pt x 1557.82pt>
 File: Images/noodles.jpg Graphic file (type jpg)
  <use Images/noodles.jpg>
 Package pdftex.def Info: Images/noodles.jpg used on input line 67.
@@ -858,7 +858,7 @@ Package pdftex.def Info: Images/noodles.jpg used on input line 67.
 
  <./Images/noodles_ingredients.jpg> <./Images/noodles.jpg>]
 Chapter 2.
-<Images/ravioliend.jpg, id=43, 813.0375pt x 856.19875pt>
+<Images/ravioliend.jpg, id=53, 813.0375pt x 856.19875pt>
 File: Images/ravioliend.jpg Graphic file (type jpg)
 
 <use Images/ravioliend.jpg>
@@ -879,13 +879,13 @@ Underfull \hbox (badness 1082) in paragraph at lines 97--100
 \OT1/cmr/m/n/12 Add the bol-ge-nese `scho-tel' and let it bake for
  []
 
-<Images/ravioli.jpg, id=44, 2601.72pt x 1557.82pt>
+<Images/ravioli.jpg, id=54, 2601.72pt x 1557.82pt>
 File: Images/ravioli.jpg Graphic file (type jpg)
  <use Images/ravioli.jpg>
 Package pdftex.def Info: Images/ravioli.jpg used on input line 103.
 (pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
 
-<Images/mushroom.jpg, id=45, 2601.72pt x 1557.82pt>
+<Images/mushroom.jpg, id=55, 2601.72pt x 1557.82pt>
 File: Images/mushroom.jpg Graphic file (type jpg)
  <use Images/mushroom.jpg>
 Package pdftex.def Info: Images/mushroom.jpg used on input line 104.
@@ -904,7 +904,7 @@ Overfull \hbox (10.57622pt too wide) in paragraph at lines 103--105
 
  <./Images/ravioliend.jpg> <./Images/ravioli.jpg> <./Images/mushroom.jpg>]
 Chapter 3.
-<Images/ing.jpg, id=52, 2601.72pt x 1557.82pt>
+<Images/ing.jpg, id=62, 2601.72pt x 1557.82pt>
 File: Images/ing.jpg Graphic file (type jpg)
  <use Images/ing.jpg>
 Package pdftex.def Info: Images/ing.jpg used on input line 123.
@@ -924,13 +924,13 @@ Underfull \hbox (badness 1242) in paragraph at lines 133--136
 \OT1/cmr/m/n/12 Add the veg-eta-bles and bake it for 7 min-utes.
  []
 
-<Images/tor.jpg, id=53, 2601.72pt x 1557.82pt>
+<Images/tor.jpg, id=63, 2601.72pt x 1557.82pt>
 File: Images/tor.jpg Graphic file (type jpg)
  <use Images/tor.jpg>
 Package pdftex.def Info: Images/tor.jpg used on input line 139.
 (pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
 
-<Images/end.jpg, id=54, 2601.72pt x 1557.82pt>
+<Images/end.jpg, id=64, 2601.72pt x 1557.82pt>
 File: Images/end.jpg Graphic file (type jpg)
  <use Images/end.jpg>
 Package pdftex.def Info: Images/end.jpg used on input line 140.
@@ -945,40 +945,120 @@ Overfull \hbox (10.57622pt too wide) in paragraph at lines 139--141
 [] 
  []
 
+[4
+
+ <./Images/ing.jpg> <./Images/tor.jpg> <./Images/end.jpg>]
+Chapter 4.
+<Images/las.jpg, id=71, 2601.72pt x 1557.82pt>
+File: Images/las.jpg Graphic file (type jpg)
+ <use Images/las.jpg>
+Package pdftex.def Info: Images/las.jpg used on input line 161.
+(pdftex.def)             Requested size: 182.139pt x 109.05853pt.
+
+Overfull \hbox (46.24727pt too wide) in paragraph at lines 161--162
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 171--173
+\OT1/cmr/m/n/12 Then, start with a thin layer of sauce and on
+ []
+
+<Images/lasag.jpg, id=72, 2601.72pt x 1557.82pt>
+File: Images/lasag.jpg Graphic file (type jpg)
+ <use Images/lasag.jpg>
+Package pdftex.def Info: Images/lasag.jpg used on input line 175.
+(pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
+
+<Images/lasagna.jpg, id=73, 2601.72pt x 1557.82pt>
+File: Images/lasagna.jpg Graphic file (type jpg)
+ <use Images/lasagna.jpg>
+Package pdftex.def Info: Images/lasagna.jpg used on input line 176.
+(pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
+
+Overfull \hbox (10.57622pt too wide) in paragraph at lines 175--177
+[][]
+ []
+
+
+Overfull \hbox (10.57622pt too wide) in paragraph at lines 175--177
+[] 
+ []
+
+[5
+
+ <./Images/las.jpg> <./Images/lasag.jpg> <./Images/lasagna.jpg>]
+Chapter 5.
+<Images/cous.jpg, id=81, 2601.72pt x 1557.82pt>
+File: Images/cous.jpg Graphic file (type jpg)
+ <use Images/cous.jpg>
+Package pdftex.def Info: Images/cous.jpg used on input line 198.
+(pdftex.def)             Requested size: 182.139pt x 109.05853pt.
+
+Overfull \hbox (46.24727pt too wide) in paragraph at lines 198--199
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--211
+
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 208--211
+\OT1/cmr/m/n/12 Then, add the cous-cous and mix ev-ery-thing.
+ []
+
+<Images/couscous.jpg, id=82, 2601.72pt x 1557.82pt>
+File: Images/couscous.jpg Graphic file (type jpg)
+ <use Images/couscous.jpg>
+Package pdftex.def Info: Images/couscous.jpg used on input line 213.
+(pdftex.def)             Requested size: 169.11774pt x 101.26186pt.
+
+Overfull \hbox (10.57622pt too wide) in paragraph at lines 213--214
+[][] 
+ []
+
 \@syc=\write7
 \openout7 = `CookeryBook.syc'.
 
 \@suc=\write8
 \openout8 = `CookeryBook.suc'.
 
-[4
+[6
 
- <./Images/ing.jpg> <./Images/tor.jpg> <./Images/end.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
+ <./Images/cous.jpg> <./Images/couscous.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
  (./CookeryBook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `CookeryBook.out' has not changed.
-(rerunfilecheck)             Checksum: 206058BEAD4A7D846F88965B0DDD4D9F;198.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
+(rerunfilecheck)             Checksum: C8409582D04F3C83AB722B65CFF8AA06;305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
- 18127 strings out of 494953
- 329245 string characters out of 6180977
+ 18162 strings out of 494953
+ 329809 string characters out of 6180977
  402064 words of memory out of 5000000
- 21005 multiletter control sequences out of 15000+600000
+ 21027 multiletter control sequences out of 15000+600000
  14973 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,9n,54p,412b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CookeryBook.pdf (5 pages, 3730226 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on CookeryBook.pdf (7 pages, 7217393 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
